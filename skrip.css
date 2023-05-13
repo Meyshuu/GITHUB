@@ -799,12 +799,12 @@
     }
     #app-mount .typeWindows-2-g3UY:after {
         content: "Misuuu";
-        color: rgb(255,255,255,0.5);
-        font-weight: 500;
+        color: rgb(255,255,255,0.7);
+        font-weight: 550;
 
         position: absolute;
         top: 8px;
-        left: 50%;
+        left: 47%;
     }
 
     #app-mount .wordmark-2u86JB {top: 3.3px;}
