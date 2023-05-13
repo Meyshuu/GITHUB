@@ -84,7 +84,7 @@
         #app-mount .channel-1Shao0,
         #app-mount .sidebar-1tnWFu .categoryItem-Kc_HK_ { 
             margin-bottom: 2px; 
-            transition: background-color 0.2s; 
+            transition: background-color 0.9s; 
             transition-timing-function: ease-in-out
         }
         #app-mount .channel-1Shao0:hover, 
@@ -804,7 +804,7 @@
 
         position: absolute;
         top: 8px;
-        left: 43.2%;
+        left: 50%;
     }
 
     #app-mount .wordmark-2u86JB {top: 3.3px;}
